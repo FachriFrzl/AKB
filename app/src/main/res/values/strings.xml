@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">latihan2</string>
+    <string name="username">Username</string>
+    <string name="Password">Password</string>
+    <string name="register">doesn/t have account ?</string>
+    <string name="facebook">Connect With Facebook</string>
+    <string name="reg">Register</string>
+    <string name="phone">Phone Number</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="email">Email</string>
+    <string name="retype">Retype Password </string>
+    <string name="home">Home Address</string>
+    <string name="personal">Personal</string>
+    <string name="Organization">Organization</string>
+    <string name="defa">Default Location</string>
+    <string name="agree">Agree With Terms And Conditions</string>
+    <string name="almost">Almost There</string>
+    <string name="thanks">Thank you for registering with us. One more step,you need to check your email to activate your account.</string>
+    <string name="does">doesn`t have code ? <b>Resend</b></string>
+</resources>
